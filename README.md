@@ -1,6 +1,6 @@
 # About
 
-This is the GitHub repository for `voteable_linus`, which is a Ruby gem
+This is the GitHub repository for `VoteableLinus`, which is a Ruby gem
 published on rubygems.org used for the
 [postit](https://github.com/linusphan/postit) Rails application. 
 
